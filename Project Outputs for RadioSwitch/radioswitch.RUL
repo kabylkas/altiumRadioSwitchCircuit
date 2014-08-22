@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\AD\Examples\radioswitch\radioswitch.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Polygon clearance|Scope=Board|Minimum=21.65

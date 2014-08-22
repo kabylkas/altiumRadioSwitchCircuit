@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RadioSwitch.PrjPCB]
+   Generated File[radioswitch.GTL]
+   Generated File[radioswitch.GBL]
+   Generated File[radioswitch.RUL]
+   Generated File[radioswitch.EXTREP]
+   Generated File[radioswitch.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 18:04:02 On 11.08.2014
